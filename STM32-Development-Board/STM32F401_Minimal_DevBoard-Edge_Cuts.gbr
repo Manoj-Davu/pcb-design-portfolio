@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.8+dfsg-1*%
+%TF.CreationDate,2026-09-09T01:07:19+05:30*%
+%TF.ProjectId,STM32F401_Minimal_DevBoard,53544d33-3246-4343-9031-5f4d696e696d,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.8+dfsg-1) date 2026-09-09 01:07:19*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.038100*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X125600000Y-75875000D02*
+X146950000Y-75875000D01*
+X146950000Y-129350000D01*
+X125600000Y-129350000D01*
+X125600000Y-75875000D01*
+M02*
